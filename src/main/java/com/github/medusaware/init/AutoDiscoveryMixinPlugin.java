@@ -1,4 +1,4 @@
-package com.github.4wl.medusawaree.init;
+package com.github.medusaware.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;

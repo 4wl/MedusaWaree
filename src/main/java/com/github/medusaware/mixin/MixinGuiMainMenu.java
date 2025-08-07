@@ -1,4 +1,6 @@
-package com.github.4wl.medusawaree.mixin;
+package com.github.medusaware.mixin
+
+.4wl.medusawaree.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,4 +1,4 @@
-package com.github.4wl.medusawaree;
+package com.github.medusaware;
 
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.init.Blocks;
